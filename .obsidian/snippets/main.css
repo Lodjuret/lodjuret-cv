@@ -1,0 +1,21 @@
+.cv-header {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.cv-header--left {
+}
+
+.cv-header--right {
+  flex: 1;
+  flex-direction: row;
+}
+
+.cv-header--profile-img {
+  width: 200px;
+  border-radius: 100px;
+}
