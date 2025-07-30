@@ -98,3 +98,52 @@
 **Datum:** 26/6
 **Typ:** Ansökan
 **Vart:** LinkedIn
+
+## Månad
+
+##### SustainAX
+**Titel:** # [Senior full-stack developer for validated start-up with global ambitions](https://www.linkedin.com/jobs/view/4240019943/?alternateChannel=search&eBP=CwEAAAGYWtzJZEnv-XHbilLy_hv6J4prgxnuQIzJaEy7z0hwRbf-qZKPnjy2hWmldqEJ_mR3w_EC9Wg8-ufEvIxBYnP2zIapvr-WLg7vzx_c9E5b2wl1HPevfTG5GB0RtI1BTTuXSmlcv5EhWuSwGgxRf8uhrgWEtL4sXL_sWDWaJ4TK38dha-hXc2UrA-8ToXgRgsVANGQSyCfnafIRTgeBhw5xn-RAP4fvaK7G09dyPg9mXrKuVJiPOLrR0zBtLsZLgtFLVSdS3cpaK5lcOpZKK9oR4d0lhFkWQdMXVKs8DZUbGG2eqQQBGnMjxsmorxPVw8p-UE_2994lHSQ1ZmZEG9CkdzC_HDWZtp5SEfQQuxNz5CElB5FYSXf9dx3XkhzLroZcp7ifV51sCw53J8ikVI2wA5QO0CjaRBJDFvumswqkxl5bKXSNGmLUCZESYy1YMPnqlXY0A3Or9vDRepIQEOojHKxiUaizPxtbmZfTGtQ-Sr--GYB1OUslNZQScQkSjSG-ZKMN8CxAMzj2dtQO3C5OKI9Zvw&refId=6PbvoBMesuzXsInW%2FG3wUw%3D%3D&trackingId=LRLOL6cEO2J2rRdSn7txMw%3D%3D&trk=d_flagship3_postapply_next_best_action)
+**Kontaktperson:** 
+**Plats:** Malmö
+**Datum:** 30/7
+**Typ:** Ansökan
+**Vart:** LinkedIn Easy Apply
+
+##### Festina Group Technology
+**Titel:** # [Frontend Developer angular](https://www.linkedin.com/jobs/view/4268527356/?alternateChannel=search&eBP=CwEAAAGYWtzJZX4jCsQk2ery6FL0vsD2A-jtsCKdRrgfEHylo8NXsioWijF-HgD5CBdLACUl4bKIwSBM5BnaeNSYDdm1bI_kCEiB6LbGl6mvPgQkaTcSTBasQ7cWUChFxc4wUD6lR3thOAQQQMnJm4vS0kOdyYRLecGJugv7txAUjhOOiMemesKsVZWeiwTqW9SAwfijDm82be8EVwtIccqRypqet8afMSSgN-MYdVrD4TD1shNXOtuLwOae35BRTm42fc6ngFs4uTXE9rYhC0RsVnsP_KGUFVuDdPXsLeWay1N1jnwEFJk-2CPVADByx-9HYhORrDk67Csjj8hKAZsvoGofULy-2Ipa0S2IG1qsZshnxgdRUHScc5fjRjqCxcWIKgucmfQz_311g9X1Zuok6mUV4BTEDlqBg-LCHXp8bpRkhL5m9QIO1yKz001mIPtQid9jkv_mDXHRxw&refId=6PbvoBMesuzXsInW%2FG3wUw%3D%3D&trackingId=jwbqV4YnSvFG3bTa%2FDY3%2BA%3D%3D&trk=d_flagship3_postapply_next_best_action)
+**Kontaktperson:** 
+**Plats:** Malmö
+**Datum:** 30/7
+**Typ:** Ansökan
+**Vart:** LinkedIn Easy Apply
+
+##### Avance Consulting
+**Titel:** # [Full Stack Engineer](https://www.linkedin.com/jobs/view/4271329543/?alternateChannel=search&eBP=CwEAAAGYWtzJZQfUBLWzLVvUsPqkH-9Bx3Ri5-RitFXEUjf1U8dTXTW3fMQ0zRbj2_6-d_K_x7eQ3cIfKLpLd-HAeSgGe9JFZpQTzO_mYIiZ4GKqeJUTWLDndje_YKail8Gd-s1zBuoxwbaq2fUmc0gZbj2YdSbD6aiOKeHktXbAL6TMM-UjYwleO1h953OEVay4e6rcVWlb4i1LAQBs3zikIciewn3ECcodKGN91CiIvqGucjaily96kWc6ofatHLlR2htimEHwqSU9rZRPxyTgw9S_Ni_SPMXgUXsdM32qCoqDjz4rPKiBacBG0P65uEtPL8TRhDwVzja4CRKcGjAmWjyn9KxgO6b3SkbBQ0lHwzyDv4oFMlzl1VlJZy7jRSmGgnXK4M0Gx2QO6AoZfh5RkoGQ2Q6Lt08qzQBrOsbtMssPKPiHsaaZmYi1rpq0pfLiUVs4y6-UO6kl7uxSsCMIaiXJtgh87R6OX1CjM91Yckuty2GyvlOj5OQP8W9PtBLPQqOUA9s&refId=6PbvoBMesuzXsInW%2FG3wUw%3D%3D&trackingId=9fJtmYh%2B8zwV9ZBhccS4%2BQ%3D%3D&trk=d_flagship3_postapply_next_best_action)**Kontaktperson:** 
+**Plats:** Skåne / Malmö?
+**Datum:** 30/7
+**Typ:** Ansökan
+**Vart:** LinkedIn Easy Apply
+
+##### Parallel Consulting
+**Titel:** # [Full Stack Engineer (Java & React)](https://www.linkedin.com/jobs/view/4055779508/?alternateChannel=search&eBP=CwEAAAGYWtzJZfB1hKWckvPZ_AXesUWjoe3PDXvQASegV4X4L06fp7EeYkCseTjgmP3euUl7M8bv5WaA71deal4MihRBljoTKIx67qCkfiLh71Dn_gKhNtygwdSmgV0JvywzYiKYK1t9Y7pKP4PiWNsW-YfCdjZzhX9HhYtqh45Crf88wfaSaGeq011RCdJvHdGHSqlcS2fEKdK_pcM2AgDWSaflbiYtb5Fx1sePSWDj7m5YoUJ-vO_KrFH5udS3U0VLCJaXZEnwj3Acb5nF0K5pjWLbGKrbe1pBhKltiBWrWORfWxwkW0Z-Y8X8fA7tTa5cWRxQOFgVQE5QF4pgaVtdjO-KGsqKvjYgDy10aeA5HDADL88JDHTy5dS_7F06lZB8MXJnibBsIGbM05x2qBMN1j4H0wZEAzrmVLvb_3pQ65y_9mk-p_BgEd05_Je3qzJV2RQFW5oV-ejpyQRy1tWYDdBVn-eqwRSbx4dFghy_DwzT7Ltvv2yH0RGG5m4W-Bx0lPb4s1LhsQ&refId=6PbvoBMesuzXsInW%2FG3wUw%3D%3D&trackingId=LizLg41RzO5lCDmM2jD1pg%3D%3D&trk=d_flagship3_postapply_next_best_action)
+**Kontaktperson:** 
+**Plats:** Skåne / Malmö?
+**Datum:** 30/7
+**Typ:** Ansökan
+**Vart:** LinkedIn Easy Apply
+
+##### Garba
+**Titel:** # [Full Stack Engineer](https://www.linkedin.com/jobs/view/4241219254/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&refId=6PbvoBMesuzXsInW%2FG3wUw%3D%3D&trackingId=M4o20A7P3hoVrIvliWS7tA%3D%3D&trk=d_flagship3_search_srp_jobs)
+**Kontaktperson:** 
+**Plats:** Malmö
+**Datum:** 30/7
+**Typ:** Ansökan
+**Vart:** LinkedIn Easy Apply
+
+##### Castra
+**Titel:** # [Är du utvecklare och sugen på något nytt efter sommaren? - Castra](https://www.linkedin.com/jobs/view/4261181002/?alternateChannel=search&eBP=CwEAAAGYWtzJZXuoCHt0LzOiUOwNYbZeO59te70w2Qg9RHYUyaC2r4BMHbNGoNozTNEd8nxsfoQFvLJZ_0DhsSQ8eyS96Do5sWEt6C4dZ1Mz1LhZv6XZLoj7pmouuOpYMGSDvUcGZ0sJsS9o9xJ3dEmciBMgc8Sqf36SCMneL66uqiaMngdQ11CkGTZPSe_QcnmKJmjVmXh-JrTlQi2FZmfrKXmkL8bd3QTfPqBRWM1Q3dA-yBVU3pU8mH8m-9M9TXsy-D9kVpQzh9OTSeXlYIRi1o-Wngyop8cIMlHW5KgYGqRSitqObgQyl55Xk-HLPxu4wRca9SzCDQ0kr_WH71B79HqOY73IXznXK_JViTeXv4dNbfKlUmNdo8UkiDcYKnS-ISCVKkIrEnRrQeqBBS3p4_7WJ43UkXZeS5bRJzu47DD4OLN955O5jaagyewlsI8TuTB_7Zt0nj8FFfzHFbsJsYIEak0Ywi4_hIVBRLVrswtzUQuT-EANcoGMs9jSS3wpIg&refId=6PbvoBMesuzXsInW%2FG3wUw%3D%3D&trackingId=cKk%2Bn%2BRjFJQyRFAu1LspJA%3D%3D&trk=d_flagship3_postapply_default_confirmation)
+**Kontaktperson:** 
+**Plats:** Malmö
+**Datum:** 30/7
+**Typ:** Ansökan
+**Vart:** LinkedIn Easy Apply
