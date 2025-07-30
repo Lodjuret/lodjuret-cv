@@ -99,7 +99,7 @@
 **Typ:** Ansökan
 **Vart:** LinkedIn
 
-## Månad
+## Juli
 
 ##### SustainAX
 **Titel:** # [Senior full-stack developer for validated start-up with global ambitions](https://www.linkedin.com/jobs/view/4240019943/?alternateChannel=search&eBP=CwEAAAGYWtzJZEnv-XHbilLy_hv6J4prgxnuQIzJaEy7z0hwRbf-qZKPnjy2hWmldqEJ_mR3w_EC9Wg8-ufEvIxBYnP2zIapvr-WLg7vzx_c9E5b2wl1HPevfTG5GB0RtI1BTTuXSmlcv5EhWuSwGgxRf8uhrgWEtL4sXL_sWDWaJ4TK38dha-hXc2UrA-8ToXgRgsVANGQSyCfnafIRTgeBhw5xn-RAP4fvaK7G09dyPg9mXrKuVJiPOLrR0zBtLsZLgtFLVSdS3cpaK5lcOpZKK9oR4d0lhFkWQdMXVKs8DZUbGG2eqQQBGnMjxsmorxPVw8p-UE_2994lHSQ1ZmZEG9CkdzC_HDWZtp5SEfQQuxNz5CElB5FYSXf9dx3XkhzLroZcp7ifV51sCw53J8ikVI2wA5QO0CjaRBJDFvumswqkxl5bKXSNGmLUCZESYy1YMPnqlXY0A3Or9vDRepIQEOojHKxiUaizPxtbmZfTGtQ-Sr--GYB1OUslNZQScQkSjSG-ZKMN8CxAMzj2dtQO3C5OKI9Zvw&refId=6PbvoBMesuzXsInW%2FG3wUw%3D%3D&trackingId=LRLOL6cEO2J2rRdSn7txMw%3D%3D&trk=d_flagship3_postapply_next_best_action)
